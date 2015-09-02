@@ -1,0 +1,11 @@
+{
+    "name": "Duktape",
+    "version": "1.2.0",
+    "archive": "Duktape.tgz",
+    "author": {
+        "name": "ConSenSusUI",
+        "link": "https://github.com/ConSenSusUI"
+    },
+    "aliases": [],
+    "specific_versions": []
+}
